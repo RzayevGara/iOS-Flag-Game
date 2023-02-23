@@ -55,6 +55,7 @@
 		C49BA0E529A770D900BC62E0 /* Flags.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flags.swift; sourceTree = "<group>"; };
 		C49BA0E729A7715A00BC62E0 /* Flagsdao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flagsdao.swift; sourceTree = "<group>"; };
 		C49BA0E929A789D000BC62E0 /* Timeout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timeout.swift; sourceTree = "<group>"; };
+		C49BA0F029A7DEC800BC62E0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +73,7 @@
 		C49BA0A629A7656D00BC62E0 = {
 			isa = PBXGroup;
 			children = (
+				C49BA0F029A7DEC800BC62E0 /* README.md */,
 				C49BA0B129A7656D00BC62E0 /* Flag Game */,
 				C49BA0B029A7656D00BC62E0 /* Products */,
 				C49BA0CD29A76DC500BC62E0 /* Frameworks */,
