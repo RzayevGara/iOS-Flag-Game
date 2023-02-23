@@ -4,6 +4,7 @@ This is a simple iOS app developed in Swift that allows users to test their know
 
 
 ## Screenshots from the Project:
+![7](https://user-images.githubusercontent.com/89863203/220990788-09d9dada-280b-43af-88a3-a7a804276595.png)
 
 
 ## Prerequisites
